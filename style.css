@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1 {
+    max-width: 400px;
+    background-color: gray;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 30px;
+    box-shadow: 0 0 20px;
+}
+.div1 h1 {
+    text-transform: uppercase;
+}
+
+.div2 {
+    max-width: 800px;
+    background-color: gray;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 30px;
+    box-shadow: 0 0 20px;
+    
+
+}
+
+.div2 li {
+    background-color: white;
+    padding: 5px 10px;
+    list-style: none;
+    margin-bottom: 5px;
+    transition: .4s ease;
+    cursor: pointer;
+}
+
